@@ -1,0 +1,14 @@
+{
+  "name": "FoodApp",
+  "displayName": "FoodApp",
+  "expo": {
+    "name": "FoodApp",
+    "slug": "FoodApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "description": "",
+    "android": {
+      "package": "com.personal.foodapp"
+    }
+  }
+}
